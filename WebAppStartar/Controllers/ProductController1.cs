@@ -11,7 +11,8 @@ namespace WebAppStartar.Controllers
             {
                 new Product { Id = 1, Name = "Product A", Price = 10.99m },
                 new Product { Id = 2, Name = "Product B", Price = 19.99m },
-                new Product { Id = 3, Name = "Product C", Price = 5.99m }
+                new Product { Id = 3, Name = "Product C", Price = 5.99m },
+                new Product { Id = 4, Name = "Product D", Price = 15.99m }
             };
             return View(products);
         }
