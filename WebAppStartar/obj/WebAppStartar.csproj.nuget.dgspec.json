@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noman\\Desktop\\All\\.NET Framework\\DotnetStarter\\WebAppStartar\\WebAppStartar.csproj": {}
+    "E:\\.Net Project\\Building RESTful Services with ASP.NET Core\\dotnetStarter\\WebAppStartar\\WebAppStartar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noman\\Desktop\\All\\.NET Framework\\DotnetStarter\\WebAppStartar\\WebAppStartar.csproj": {
+    "E:\\.Net Project\\Building RESTful Services with ASP.NET Core\\dotnetStarter\\WebAppStartar\\WebAppStartar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noman\\Desktop\\All\\.NET Framework\\DotnetStarter\\WebAppStartar\\WebAppStartar.csproj",
+        "projectUniqueName": "E:\\.Net Project\\Building RESTful Services with ASP.NET Core\\dotnetStarter\\WebAppStartar\\WebAppStartar.csproj",
         "projectName": "WebAppStartar",
-        "projectPath": "C:\\Users\\Noman\\Desktop\\All\\.NET Framework\\DotnetStarter\\WebAppStartar\\WebAppStartar.csproj",
-        "packagesPath": "C:\\Users\\Noman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noman\\Desktop\\All\\.NET Framework\\DotnetStarter\\WebAppStartar\\obj\\",
+        "projectPath": "E:\\.Net Project\\Building RESTful Services with ASP.NET Core\\dotnetStarter\\WebAppStartar\\WebAppStartar.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "E:\\.Net Project\\Building RESTful Services with ASP.NET Core\\dotnetStarter\\WebAppStartar\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Noman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

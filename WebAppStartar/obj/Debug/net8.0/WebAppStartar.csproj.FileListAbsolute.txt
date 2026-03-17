@@ -32,3 +32,34 @@ C:\Users\Noman\Desktop\All\.NET Framework\DotnetStarter\WebAppStartar\obj\Debug\
 C:\Users\Noman\Desktop\All\.NET Framework\DotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.pdb
 C:\Users\Noman\Desktop\All\.NET Framework\DotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.genruntimeconfig.cache
 C:\Users\Noman\Desktop\All\.NET Framework\DotnetStarter\WebAppStartar\obj\Debug\net8.0\ref\WebAppStartar.dll
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\appsettings.Development.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\appsettings.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\WebAppStartar.staticwebassets.runtime.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\WebAppStartar.exe
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\WebAppStartar.deps.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\WebAppStartar.runtimeconfig.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\WebAppStartar.dll
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\bin\Debug\net8.0\WebAppStartar.pdb
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.AssemblyInfoInputs.cache
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.AssemblyInfo.cs
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.csproj.CoreCompileInputs.cache
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.RazorAssemblyInfo.cache
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.RazorAssemblyInfo.cs
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.sourcelink.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets.build.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets.development.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets\msbuild.WebAppStartar.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets\msbuild.build.WebAppStartar.props
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAppStartar.props
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAppStartar.props
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\scopedcss\bundle\WebAppStartar.styles.css
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\scopedcss\projectbundle\WebAppStartar.bundle.scp.css
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.dll
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\refint\WebAppStartar.dll
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.pdb
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\WebAppStartar.genruntimeconfig.cache
+E:\.Net Project\Building RESTful Services with ASP.NET Core\dotnetStarter\WebAppStartar\obj\Debug\net8.0\ref\WebAppStartar.dll
