@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualBasic;
+using WebAppStartar.Models;
 
 namespace WebAppStartar.Contorlllers
 {
@@ -17,7 +18,19 @@ namespace WebAppStartar.Contorlllers
 
         public IActionResult Create()
         {
-            return Content("Customer Created");
+           //Customer customer = new Customer();
+
+           return View(); 
+        }
+
+        [HttpPost]
+        public IActionResult Create(Customer customer)
+        {
+            if(ModelState.IsValid)
+            {
+                return Content(customer.Name + " " + customer.Age);
+            }
+            return View(customer);
         }
 
         //JSON Result
